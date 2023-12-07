@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(17, 17, 17);
+    opacity:0.8;
+}
+.ttt{
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+    font: bolder;
+}
+.container-fluid{
+    display: flex;
+    justify-content: space-between;
+}
