@@ -1,3 +1,4 @@
+
 body{
     background: url('assets/conifertrees-800x449.jpeg');
     background-repeat: no-repeat;
@@ -23,3 +24,44 @@ body{
     left: 500px;
     bottom: 40px;
 }
+
+
+body{
+    background-color: rgb(17, 17, 17);
+    opacity:0.8;
+}
+.ttt{
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+    font: bolder;
+}
+.container-fluid{
+    display: flex;
+    justify-content: space-between;
+}
+.kiki{
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-decoration: none;
+    
+}
+.nav{
+    text-decoration: none;
+    padding: 7px;
+    margin: 5px;
+}
+.travel{
+    margin: 20px;
+    padding: 50px;
+}
+.row{
+    padding-top: 15px;
+}
+.yes{
+    padding: none;
+}
+
+   
+
+
