@@ -1,0 +1,23 @@
+.kiki{
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-decoration: none;
+    
+}
+.nav{
+    text-decoration: none;
+    padding: 7px;
+    margin: 5px;
+}
+.travel{
+    margin: 20px;
+    padding: 50px;
+}
+.row{
+    padding-top: 15px;
+}
+.yes{
+    padding: none;
+}
+
+   
