@@ -1,8 +1,10 @@
 
 body{
-    background: url('assets/conifertrees-800x449.jpeg');
+background-color: aqua;
     background-repeat: no-repeat;
     background-size: cover;
+    padding: 15px;
+    margin: 3px;
     
 }
 .Travel{
@@ -26,10 +28,7 @@ body{
 }
 
 
-body{
-    background-color: rgb(17, 17, 17);
-    opacity:0.8;
-}
+
 .ttt{
     text-align: center;
     font-size: 40px;
@@ -61,6 +60,11 @@ body{
 .yes{
     padding: none;
 }
+.macy{
+    background-color: black;
+
+}
+
 
    
 
