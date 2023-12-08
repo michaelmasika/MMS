@@ -1,3 +1,44 @@
+
+body{
+background-color: aqua;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 15px;
+    margin: 3px;
+    
+}
+.Travel{
+    position: relative;
+    top: 100px;
+    padding: 2px;
+    margin: 2px;
+}
+.Discover{
+    position: relative;
+    top: 90px;
+    padding: 2px;
+    margin: 2px;
+}
+.pictures{
+    display: flex;
+    gap: 20px;
+    position: relative;
+    left: 500px;
+    bottom: 40px;
+}
+
+
+
+.ttt{
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+    font: bolder;
+}
+.container-fluid{
+    display: flex;
+    justify-content: space-between;
+}
 .kiki{
     background-repeat: no-repeat;
     background-size: cover;
@@ -19,5 +60,12 @@
 .yes{
     padding: none;
 }
+.macy{
+    background-color: black;
+
+}
+
 
    
+
+
